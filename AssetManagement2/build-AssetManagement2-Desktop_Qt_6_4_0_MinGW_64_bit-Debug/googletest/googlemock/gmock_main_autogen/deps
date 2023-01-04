@@ -1,0 +1,7 @@
+gmock_main_autogen/timestamp: \
+	C:/Qt/Tools/QtCreator/share/qtcreator/package-manager/auto-setup.cmake \
+	F:/vivek/AssetManagement2/AssetManagement2/googletest/googlemock/CMakeLists.txt \
+	F:/vivek/AssetManagement2/AssetManagement2/googletest/googlemock/cmake/gmock.pc.in \
+	F:/vivek/AssetManagement2/AssetManagement2/googletest/googlemock/cmake/gmock_main.pc.in \
+	F:/vivek/AssetManagement2/AssetManagement2/googletest/googlemock/src/gmock_main.cc \
+	C:/Qt/Tools/CMake_64/bin/cmake.exe

@@ -1,0 +1,71 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"SqlDataBase/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "SqlDataBase_autogen_timestamp_deps::@55acd6b787792ac88c29"
+		}
+	],
+	"id" : "SqlDataBase_autogen::@55acd6b787792ac88c29",
+	"isGeneratorProvided" : true,
+	"name" : "SqlDataBase_autogen",
+	"paths" : 
+	{
+		"build" : "SqlDataBase",
+		"source" : "SqlDataBase"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/user/Downloads/AssetManagement2/build-AssetManagement2-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/SqlDataBase/CMakeFiles/SqlDataBase_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/user/Downloads/AssetManagement2/build-AssetManagement2-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/SqlDataBase/CMakeFiles/SqlDataBase_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/user/Downloads/AssetManagement2/build-AssetManagement2-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/SqlDataBase/SqlDataBase_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

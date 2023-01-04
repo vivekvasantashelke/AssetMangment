@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "F:/vivek/AssetManagement2/build-AssetManagement2-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/AssetManagement1_autogen",
+	"CMAKE_BINARY_DIR" : "F:/vivek/AssetManagement2/build-AssetManagement2-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "F:/vivek/AssetManagement2/build-AssetManagement2-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "F:/vivek/AssetManagement2/AssetManagement2",
+	"CMAKE_SOURCE_DIR" : "F:/vivek/AssetManagement2/AssetManagement2",
+	"INCLUDE_DIR" : "F:/vivek/AssetManagement2/build-AssetManagement2-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/AssetManagement1_autogen/include",
+	"INPUTS" : [ "F:/vivek/AssetManagement2/AssetManagement2/default.png" ],
+	"LOCK_FILE" : "F:/vivek/AssetManagement2/build-AssetManagement2-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/AssetManagement1_autogen.dir/AutoRcc_Image_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Image" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Image.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.4.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "F:/vivek/AssetManagement2/build-AssetManagement2-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/AssetManagement1_autogen.dir/AutoRcc_Image_EWIEGA46WW_Used.txt",
+	"SOURCE" : "F:/vivek/AssetManagement2/AssetManagement2/Image.qrc",
+	"VERBOSITY" : 0
+}
